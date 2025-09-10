@@ -1,0 +1,296 @@
+[
+  {
+    "id": "street-fighter-2-cabinet",
+    "slug": "street-fighter-2-cabinet",
+    "title": "Street Fighter II - Champion Edition",
+    "description": "Fully restored Street Fighter II Champion Edition arcade cabinet with original Capcom CPS-1 hardware. Features authentic joystick and button configuration, crisp CRT monitor, and immaculate artwork restoration.",
+    "price": { "amount": 3499, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["capcom", "fighting", "cps-1", "restored"],
+    "category": "cabinet",
+    "featured": true,
+    "variants": [
+      {
+        "id": "sf2-us",
+        "title": "US Version",
+        "options": { "region": "US", "artwork": "Original" },
+        "price": { "amount": 3499, "currency": "USD" },
+        "stock": 2,
+        "sku": "SF2-CAB-US-001"
+      },
+      {
+        "id": "sf2-jp",
+        "title": "Japanese Version",
+        "options": { "region": "JP", "artwork": "Original" },
+        "price": { "amount": 3699, "currency": "USD" },
+        "stock": 1,
+        "sku": "SF2-CAB-JP-001"
+      }
+    ],
+    "specs": {
+      "Monitor": "25\" CRT (restored)",
+      "Hardware": "Capcom CPS-1",
+      "Controls": "8-way joystick + 6 buttons per player",
+      "Dimensions": "26\"W x 28\"D x 72\"H",
+      "Weight": "300 lbs",
+      "Year": "1992"
+    },
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": "galaga-cabinet",
+    "slug": "galaga-cabinet",
+    "title": "Galaga - Classic Shooter",
+    "description": "Pristine Galaga cabinet featuring the beloved space shooter gameplay. Completely refurbished with new wiring harness, restored monitor, and period-correct artwork.",
+    "price": { "amount": 2899, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1586182987320-4f376d39d787?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+    ],
+    "tags": ["namco", "shooter", "classic", "restored"],
+    "category": "cabinet",
+    "featured": true,
+    "specs": {
+      "Monitor": "19\" CRT (restored)",
+      "Hardware": "Namco Galaga PCB",
+      "Controls": "2-way joystick + fire button",
+      "Dimensions": "24\"W x 28\"D x 68\"H",
+      "Weight": "250 lbs",
+      "Year": "1981"
+    },
+    "createdAt": "2024-01-14T00:00:00Z"
+  },
+  {
+    "id": "pac-man-cabinet",
+    "slug": "pac-man-cabinet",
+    "title": "Pac-Man - The Original",
+    "description": "Iconic Pac-Man arcade cabinet in excellent condition. Features original Midway hardware, fully restored CRT monitor, and authentic cabinet artwork that started the arcade revolution.",
+    "price": { "amount": 2699, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop"
+    ],
+    "tags": ["midway", "maze", "classic", "iconic"],
+    "category": "cabinet",
+    "featured": true,
+    "specs": {
+      "Monitor": "19\" CRT (restored)",
+      "Hardware": "Midway Pac-Man PCB",
+      "Controls": "4-way joystick",
+      "Dimensions": "23\"W x 26\"D x 67\"H",
+      "Weight": "230 lbs",
+      "Year": "1980"
+    },
+    "createdAt": "2024-01-13T00:00:00Z"
+  },
+  {
+    "id": "neo-geo-mvs-cabinet",
+    "slug": "neo-geo-mvs-cabinet",
+    "title": "Neo Geo MVS 4-Slot Cabinet",
+    "description": "Premium Neo Geo MVS 4-slot cabinet with interchangeable cartridge system. Perfect for playing multiple SNK classics. Includes original joysticks and a selection of popular games.",
+    "price": { "amount": 4299, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586182987320-4f376d39d787?w=800&h=600&fit=crop"
+    ],
+    "tags": ["snk", "neo-geo", "mvs", "cartridge"],
+    "category": "cabinet",
+    "specs": {
+      "Monitor": "25\" CRT (restored)",
+      "Hardware": "Neo Geo MVS 4-slot",
+      "Controls": "8-way joystick + 4 buttons per player",
+      "Dimensions": "28\"W x 30\"D x 74\"H",
+      "Weight": "350 lbs",
+      "Year": "1990"
+    },
+    "createdAt": "2024-01-12T00:00:00Z"
+  },
+  {
+    "id": "donkey-kong-cabinet",
+    "slug": "donkey-kong-cabinet",
+    "title": "Donkey Kong - Nintendo Classic",
+    "description": "Authentic Nintendo Donkey Kong cabinet featuring the original platformer that introduced Mario. Completely restored with period-accurate components and stunning artwork.",
+    "price": { "amount": 3199, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["nintendo", "platformer", "mario", "classic"],
+    "category": "cabinet",
+    "specs": {
+      "Monitor": "19\" CRT (restored)",
+      "Hardware": "Nintendo Donkey Kong PCB",
+      "Controls": "8-way joystick + jump button",
+      "Dimensions": "25\"W x 28\"D x 70\"H",
+      "Weight": "280 lbs",
+      "Year": "1981"
+    },
+    "createdAt": "2024-01-11T00:00:00Z"
+  },
+  {
+    "id": "cps2-motherboard",
+    "slug": "cps2-motherboard",
+    "title": "Capcom CPS-2 Motherboard",
+    "description": "Authentic Capcom CPS-2 motherboard in excellent working condition. Battery replaced and tested. Compatible with all CPS-2 game cartridges including Street Fighter Alpha series and Darkstalkers.",
+    "price": { "amount": 899, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop"
+    ],
+    "tags": ["capcom", "cps-2", "motherboard", "pcb"],
+    "category": "pcb",
+    "variants": [
+      {
+        "id": "cps2-rev-a",
+        "title": "Revision A",
+        "options": { "revision": "A" },
+        "price": { "amount": 899, "currency": "USD" },
+        "stock": 3,
+        "sku": "CPS2-MB-REV-A"
+      },
+      {
+        "id": "cps2-rev-b",
+        "title": "Revision B",
+        "options": { "revision": "B" },
+        "price": { "amount": 949, "currency": "USD" },
+        "stock": 2,
+        "sku": "CPS2-MB-REV-B"
+      }
+    ],
+    "specs": {
+      "Compatibility": "All CPS-2 cartridges",
+      "Battery": "Newly replaced",
+      "Output": "RGB + Composite",
+      "Power": "12V/5V input",
+      "Tested": "Fully functional"
+    },
+    "createdAt": "2024-01-10T00:00:00Z"
+  },
+  {
+    "id": "jamma-pcb-60in1",
+    "slug": "jamma-pcb-60in1",
+    "title": "JAMMA 60-in-1 Multi Game PCB",
+    "description": "High-quality multi-game PCB featuring 60 classic arcade games. Perfect for cabinet conversions or game swapping. Includes popular titles from multiple manufacturers.",
+    "price": { "amount": 299, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop"
+    ],
+    "tags": ["jamma", "multi-game", "pcb", "conversion"],
+    "category": "pcb",
+    "specs": {
+      "Games": "60 classic titles",
+      "Standard": "JAMMA compatible",
+      "Output": "RGB + CGA",
+      "Menu": "On-screen game selection",
+      "Power": "Standard JAMMA"
+    },
+    "createdAt": "2024-01-09T00:00:00Z"
+  },
+  {
+    "id": "neo-geo-mvs-motherboard",
+    "slug": "neo-geo-mvs-motherboard",
+    "title": "Neo Geo MVS Motherboard - 1 Slot",
+    "description": "Original SNK Neo Geo MVS motherboard, single slot configuration. Fully tested and working perfectly with all Neo Geo MVS cartridges. Includes BIOS and all necessary components.",
+    "price": { "amount": 599, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop"
+    ],
+    "tags": ["snk", "neo-geo", "mvs", "motherboard"],
+    "category": "pcb",
+    "specs": {
+      "Slots": "1 cartridge slot",
+      "Output": "RGB + Composite",
+      "BIOS": "Original SNK BIOS",
+      "Memory": "Work RAM + Video RAM",
+      "Tested": "100% functional"
+    },
+    "createdAt": "2024-01-08T00:00:00Z"
+  },
+  {
+    "id": "sanwa-joystick-kit",
+    "slug": "sanwa-joystick-kit",
+    "title": "Sanwa JLF-TP-8YT Joystick Kit",
+    "description": "Premium Sanwa joystick kit with 8-way gate and mounting hardware. The gold standard for fighting game controls, used in professional tournaments worldwide.",
+    "price": { "amount": 89, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+    ],
+    "tags": ["sanwa", "joystick", "tournament", "fighting"],
+    "category": "controller",
+    "specs": {
+      "Model": "JLF-TP-8YT",
+      "Gate": "8-way octagonal",
+      "Mounting": "Top panel mount",
+      "Switches": "Microswitch",
+      "Warranty": "1 year"
+    },
+    "createdAt": "2024-01-07T00:00:00Z"
+  },
+  {
+    "id": "happ-competition-stick",
+    "slug": "happ-competition-stick",
+    "title": "Happ Competition Joystick - Red Ball Top",
+    "description": "Classic American-style competition joystick with red ball top. Perfect for cabinet restoration or custom builds. Known for its distinctive feel and durability.",
+    "price": { "amount": 65, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+    ],
+    "tags": ["happ", "competition", "american", "restoration"],
+    "category": "controller",
+    "specs": {
+      "Style": "American Competition",
+      "Ball Top": "Red plastic",
+      "Mounting": "Panel mount",
+      "Switches": "Leaf switch",
+      "Throw": "Long throw action"
+    },
+    "createdAt": "2024-01-06T00:00:00Z"
+  },
+  {
+    "id": "galaga-marquee-set",
+    "slug": "galaga-marquee-set",
+    "title": "Galaga Marquee & Artwork Set",
+    "description": "Complete Galaga artwork package including backlit marquee, side art, control panel overlay, and bezel. Professionally printed on authentic materials for perfect restoration.",
+    "price": { "amount": 179, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1586182987320-4f376d39d787?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop"
+    ],
+    "tags": ["galaga", "marquee", "artwork", "restoration"],
+    "category": "artwork",
+    "specs": {
+      "Marquee": "26\" x 8\" backlit",
+      "Side Art": "Left & Right panels",
+      "Control Panel": "Overlay included",
+      "Bezel": "Monitor bezel",
+      "Material": "Authentic vinyl"
+    },
+    "createdAt": "2024-01-05T00:00:00Z"
+  },
+  {
+    "id": "street-fighter-artwork",
+    "slug": "street-fighter-artwork",
+    "title": "Street Fighter II Artwork Package",
+    "description": "Premium Street Fighter II complete artwork set featuring vibrant character art and authentic Capcom styling. Includes everything needed for a perfect cabinet restoration.",
+    "price": { "amount": 219, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["street-fighter", "capcom", "artwork", "complete"],
+    "category": "artwork",
+    "specs": {
+      "Marquee": "26\" x 8\" backlit",
+      "Side Art": "Champion Edition design",
+      "Control Panel": "2-player overlay",
+      "Instruction Card": "Moves reference",
+      "Quality": "Museum grade printing"
+    },
+    "createdAt": "2024-01-04T00:00:00Z"
+  }
+]
