@@ -1,5 +1,116 @@
 [
   {
+    "id": "centipede-cabinet",
+    "slug": "centipede-cabinet",
+    "title": "Centipede - Atari Classic",
+    "description": "Authentic Atari Centipede cabinet featuring the iconic trackball gameplay. Fully restored with original hardware, perfect CRT monitor, and stunning side art restoration.",
+    "price": { "amount": 2499, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1586182987320-4f376d39d787?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop"
+    ],
+    "tags": ["atari", "trackball", "classic", "restored"],
+    "category": "cabinet",
+    "specs": {
+      "Monitor": "19\" CRT (restored)",
+      "Hardware": "Atari Centipede PCB",
+      "Controls": "Trackball + fire button",
+      "Dimensions": "25\"W x 28\"D x 69\"H",
+      "Weight": "260 lbs",
+      "Year": "1981"
+    },
+    "createdAt": "2024-01-16T00:00:00Z"
+  },
+  {
+    "id": "asteroids-cabinet",
+    "slug": "asteroids-cabinet",
+    "title": "Asteroids - Vector Graphics Legend",
+    "description": "Classic Atari Asteroids cabinet with authentic vector monitor. Features the original black and white vector graphics that made this game a legend in arcade history.",
+    "price": { "amount": 2799, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["atari", "vector", "classic", "space"],
+    "category": "cabinet",
+    "specs": {
+      "Monitor": "19\" Vector (restored)",
+      "Hardware": "Atari Asteroids PCB",
+      "Controls": "2 rotate buttons + thrust + fire",
+      "Dimensions": "25\"W x 28\"D x 70\"H",
+      "Weight": "280 lbs",
+      "Year": "1979"
+    },
+    "createdAt": "2024-01-17T00:00:00Z"
+  },
+  {
+    "id": "mortal-kombat-cabinet",
+    "slug": "mortal-kombat-cabinet",
+    "title": "Mortal Kombat II - Tournament Edition",
+    "description": "Iconic Mortal Kombat II cabinet featuring all the fatalities and brutalities. Complete with authentic Midway hardware and tournament-quality controls.",
+    "price": { "amount": 3799, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+    ],
+    "tags": ["midway", "fighting", "tournament", "mk"],
+    "category": "cabinet",
+    "featured": true,
+    "specs": {
+      "Monitor": "25\" CRT (restored)",
+      "Hardware": "Midway Y-Unit",
+      "Controls": "8-way joystick + 5 buttons per player",
+      "Dimensions": "26\"W x 28\"D x 72\"H",
+      "Weight": "320 lbs",
+      "Year": "1993"
+    },
+    "createdAt": "2024-01-18T00:00:00Z"
+  },
+  {
+    "id": "ms-pac-man-cabinet",
+    "slug": "ms-pac-man-cabinet",
+    "title": "Ms. Pac-Man - The Sequel",
+    "description": "The beloved sequel to Pac-Man featuring enhanced gameplay and new mazes. Fully restored with original Midway/General Computer Corporation hardware.",
+    "price": { "amount": 2599, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586182987320-4f376d39d787?w=800&h=600&fit=crop"
+    ],
+    "tags": ["midway", "maze", "classic", "sequel"],
+    "category": "cabinet",
+    "specs": {
+      "Monitor": "19\" CRT (restored)",
+      "Hardware": "Ms. Pac-Man PCB",
+      "Controls": "4-way joystick",
+      "Dimensions": "23\"W x 26\"D x 67\"H",
+      "Weight": "230 lbs",
+      "Year": "1982"
+    },
+    "createdAt": "2024-01-19T00:00:00Z"
+  },
+  {
+    "id": "tekken-3-cabinet",
+    "slug": "tekken-3-cabinet",
+    "title": "Tekken 3 - 3D Fighting Revolution",
+    "description": "Namco's legendary Tekken 3 cabinet with System 12 hardware. Features smooth 3D graphics and the complete roster of fighters in pristine condition.",
+    "price": { "amount": 4199, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop"
+    ],
+    "tags": ["namco", "3d-fighting", "tekken", "system12"],
+    "category": "cabinet",
+    "specs": {
+      "Monitor": "29\" CRT (restored)",
+      "Hardware": "Namco System 12",
+      "Controls": "8-way joystick + 4 buttons per player",
+      "Dimensions": "28\"W x 30\"D x 74\"H",
+      "Weight": "380 lbs",
+      "Year": "1998"
+    },
+    "createdAt": "2024-01-20T00:00:00Z"
+  },
+  {
     "id": "street-fighter-2-cabinet",
     "slug": "street-fighter-2-cabinet",
     "title": "Street Fighter II - Champion Edition",
@@ -212,6 +323,89 @@
     "createdAt": "2024-01-08T00:00:00Z"
   },
   {
+    "id": "pandoras-box-pcb",
+    "slug": "pandoras-box-pcb",
+    "title": "Pandora's Box 12 - 3000 Games PCB",
+    "description": "Ultimate multi-game PCB featuring over 3000 classic arcade games from multiple manufacturers. Perfect for cabinet conversions with HDMI output and save states.",
+    "price": { "amount": 459, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop"
+    ],
+    "tags": ["multi-game", "hdmi", "save-states", "modern"],
+    "category": "pcb",
+    "featured": true,
+    "specs": {
+      "Games": "3000+ classic titles",
+      "Output": "HDMI + VGA + CGA",
+      "Features": "Save states, filters, scanlines",
+      "Controls": "Up to 4 players",
+      "Power": "12V DC input"
+    },
+    "createdAt": "2024-01-21T00:00:00Z"
+  },
+  {
+    "id": "naomi-motherboard",
+    "slug": "naomi-motherboard",
+    "title": "Sega NAOMI Motherboard",
+    "description": "Original Sega NAOMI (New Arcade Operation Machine Idea) motherboard. Compatible with Dreamcast-based arcade games including Crazy Taxi and House of the Dead 2.",
+    "price": { "amount": 799, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop"
+    ],
+    "tags": ["sega", "naomi", "dreamcast", "arcade"],
+    "category": "pcb",
+    "specs": {
+      "Architecture": "Dreamcast-based",
+      "Output": "VGA + RGB",
+      "Media": "GD-ROM cartridge",
+      "CPU": "Hitachi SH4 200MHz",
+      "Memory": "32MB main + 16MB video"
+    },
+    "createdAt": "2024-01-22T00:00:00Z"
+  },
+  {
+    "id": "konami-gx-pcb",
+    "slug": "konami-gx-pcb",
+    "title": "Konami GX System Board",
+    "description": "Rare Konami GX system motherboard used for games like Gradius IV and Gokujou Parodius. Features PowerPC processor and high-quality audio capabilities.",
+    "price": { "amount": 1299, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop"
+    ],
+    "tags": ["konami", "gx-system", "powerpc", "rare"],
+    "category": "pcb",
+    "specs": {
+      "CPU": "PowerPC 603e 66MHz",
+      "Graphics": "Konami K056832",
+      "Audio": "Konami K054539",
+      "Output": "RGB",
+      "Games": "Gradius IV, Salamander 2, etc."
+    },
+    "createdAt": "2024-01-23T00:00:00Z"
+  },
+  {
+    "id": "atomiswave-motherboard",
+    "slug": "atomiswave-motherboard", 
+    "title": "Sammy Atomiswave Motherboard",
+    "description": "Sammy Atomiswave system board based on Dreamcast architecture. Compatible with cartridge-based fighting games including King of Fighters XI and Guilty Gear X.",
+    "price": { "amount": 649, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop"
+    ],
+    "tags": ["sammy", "atomiswave", "cartridge", "fighting"],
+    "category": "pcb",
+    "specs": {
+      "Architecture": "Dreamcast-based", 
+      "Media": "ROM cartridge",
+      "Output": "VGA + RGB",
+      "CPU": "Hitachi SH4",
+      "Compatible": "SNK/Playmore games"
+    },
+    "createdAt": "2024-01-24T00:00:00Z"
+  },
+  {
     "id": "sanwa-joystick-kit",
     "slug": "sanwa-joystick-kit",
     "title": "Sanwa JLF-TP-8YT Joystick Kit",
@@ -253,6 +447,125 @@
     "createdAt": "2024-01-06T00:00:00Z"
   },
   {
+    "id": "seimitsu-joystick-kit",
+    "slug": "seimitsu-joystick-kit",
+    "title": "Seimitsu LS-32 Joystick Kit",
+    "description": "Premium Seimitsu LS-32 joystick with shorter throw and precise action. Preferred by many professional fighting game players for its responsive feel and durability.",
+    "price": { "amount": 79, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["seimitsu", "joystick", "short-throw", "precision"],
+    "category": "controller",
+    "specs": {
+      "Model": "LS-32-01",
+      "Throw": "Short throw",
+      "Mounting": "PCB mount",
+      "Switches": "Microswitch",
+      "Ball Top": "Included"
+    },
+    "createdAt": "2024-01-25T00:00:00Z"
+  },
+  {
+    "id": "sanwa-button-set",
+    "slug": "sanwa-button-set",
+    "title": "Sanwa OBSF-30 Button Set - 6 Pack",
+    "description": "Set of 6 authentic Sanwa OBSF-30 buttons in classic colors. Silent action with crisp response, perfect for fighting game setups and cabinet restoration.",
+    "price": { "amount": 45, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["sanwa", "buttons", "silent", "fighting"],
+    "category": "controller",
+    "variants": [
+      {
+        "id": "buttons-mixed",
+        "title": "Mixed Colors",
+        "options": { "colors": "Red, Blue, Yellow, Green, Black, White" },
+        "price": { "amount": 45, "currency": "USD" },
+        "stock": 15,
+        "sku": "SANWA-OBSF-MIX-6"
+      },
+      {
+        "id": "buttons-uniform",
+        "title": "Single Color Set",
+        "options": { "colors": "Choose one color" },
+        "price": { "amount": 42, "currency": "USD" },
+        "stock": 25,
+        "sku": "SANWA-OBSF-UNI-6"
+      }
+    ],
+    "specs": {
+      "Model": "OBSF-30",
+      "Diameter": "30mm",
+      "Type": "Silent microswitch",
+      "Colors": "Multiple available",
+      "Mounting": "30mm hole"
+    },
+    "createdAt": "2024-01-26T00:00:00Z"
+  },
+  {
+    "id": "happ-pushbutton-set",
+    "slug": "happ-pushbutton-set", 
+    "title": "Happ Pushbutton Set - American Style",
+    "description": "Set of 6 Happ pushbuttons in the classic American arcade style. Perfect for restoring vintage cabinets to their original specifications with authentic feel.",
+    "price": { "amount": 35, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+    ],
+    "tags": ["happ", "pushbutton", "american", "vintage"],
+    "category": "controller",
+    "specs": {
+      "Style": "American Competition",
+      "Switch": "Leaf switch",
+      "Colors": "Red, Blue, Yellow, Green, Black, White",
+      "Mounting": "Standard button hole",
+      "Feel": "Classic arcade action"
+    },
+    "createdAt": "2024-01-27T00:00:00Z"
+  },
+  {
+    "id": "trackball-assembly",
+    "slug": "trackball-assembly",
+    "title": "Atari Centipede Trackball Assembly",
+    "description": "Complete trackball assembly for Atari Centipede and Missile Command. Includes original ball, optical encoders, and mounting hardware for authentic gameplay.",
+    "price": { "amount": 149, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["atari", "trackball", "centipede", "optical"],
+    "category": "controller", 
+    "specs": {
+      "Compatibility": "Centipede, Missile Command",
+      "Ball Size": "3 inch diameter",
+      "Encoders": "Optical",
+      "Mounting": "Panel mount",
+      "Condition": "Refurbished"
+    },
+    "createdAt": "2024-01-28T00:00:00Z"
+  },
+  {
+    "id": "spinner-controller",
+    "slug": "spinner-controller",
+    "title": "Tempest Spinner Controller",
+    "description": "High-quality reproduction Tempest spinner with smooth 360-degree rotation. Features precision optical encoding for accurate control in vector games.",
+    "price": { "amount": 129, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+    ],
+    "tags": ["tempest", "spinner", "vector", "optical"],
+    "category": "controller",
+    "specs": {
+      "Type": "360-degree spinner",
+      "Encoding": "Optical",
+      "Compatibility": "Tempest, Arkanoid, etc.",
+      "Mounting": "Panel mount",
+      "Feel": "Smooth precision"
+    },
+    "createdAt": "2024-01-29T00:00:00Z"
+  },
+  {
     "id": "galaga-marquee-set",
     "slug": "galaga-marquee-set",
     "title": "Galaga Marquee & Artwork Set",
@@ -292,5 +605,127 @@
       "Quality": "Museum grade printing"
     },
     "createdAt": "2024-01-04T00:00:00Z"
+  },
+  {
+    "id": "pac-man-artwork",
+    "slug": "pac-man-artwork",
+    "title": "Pac-Man Complete Artwork Package",
+    "description": "Original Pac-Man artwork set featuring the iconic yellow hero and colorful ghost designs. Includes all cabinet graphics needed for a perfect restoration.",
+    "price": { "amount": 189, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1586182987320-4f376d39d787?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["pac-man", "midway", "yellow", "ghosts"],
+    "category": "artwork",
+    "specs": {
+      "Marquee": "26\" x 8\" backlit",
+      "Side Art": "Classic maze design",
+      "Control Panel": "Joystick overlay",
+      "Bezel": "19\" monitor bezel", 
+      "Material": "Premium vinyl"
+    },
+    "createdAt": "2024-01-30T00:00:00Z"
+  },
+  {
+    "id": "donkey-kong-artwork",
+    "slug": "donkey-kong-artwork",
+    "title": "Donkey Kong Artwork Set",
+    "description": "Complete Donkey Kong artwork package featuring Mario, DK, and Pauline in the classic Nintendo style. Museum-quality reproduction on authentic materials.",
+    "price": { "amount": 199, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop"
+    ],
+    "tags": ["donkey-kong", "nintendo", "mario", "classic"],
+    "category": "artwork",
+    "featured": true,
+    "specs": {
+      "Marquee": "26\" x 8\" backlit",
+      "Side Art": "Nintendo DK design",
+      "Control Panel": "2-player layout",
+      "Instruction Card": "Game rules",
+      "Quality": "Museum reproduction"
+    },
+    "createdAt": "2024-01-31T00:00:00Z"
+  },
+  {
+    "id": "centipede-artwork",
+    "slug": "centipede-artwork", 
+    "title": "Centipede Marquee & Bezel Set",
+    "description": "Atari Centipede artwork featuring the iconic insect design and colorful mushroom field graphics. Perfect for trackball cabinet restoration projects.",
+    "price": { "amount": 159, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1586182987320-4f376d39d787?w=800&h=600&fit=crop"
+    ],
+    "tags": ["centipede", "atari", "trackball", "insects"],
+    "category": "artwork",
+    "specs": {
+      "Marquee": "26\" x 8\" backlit",
+      "Bezel": "19\" monitor bezel",
+      "Design": "Centipede & mushrooms", 
+      "Colors": "Vibrant green/yellow",
+      "Material": "Durable vinyl"
+    },
+    "createdAt": "2024-02-01T00:00:00Z"
+  },
+  {
+    "id": "mortal-kombat-artwork",
+    "slug": "mortal-kombat-artwork",
+    "title": "Mortal Kombat II Artwork Package", 
+    "description": "Complete MK2 artwork set featuring Sub-Zero, Scorpion, and the tournament fighters. Includes the iconic dragon logo and fatality-themed graphics.",
+    "price": { "amount": 239, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800&h=600&fit=crop"
+    ],
+    "tags": ["mortal-kombat", "mk2", "fatality", "tournament"],
+    "category": "artwork",
+    "specs": {
+      "Marquee": "26\" x 8\" backlit",
+      "Side Art": "Dragon & fighters",
+      "Control Panel": "6-button layout",
+      "Instruction Card": "Fatality moves",
+      "Theme": "Tournament edition"
+    },
+    "createdAt": "2024-02-02T00:00:00Z"
+  },
+  {
+    "id": "generic-marquee-blank",
+    "slug": "generic-marquee-blank",
+    "title": "Blank Marquee - Custom Ready",
+    "description": "High-quality blank marquee ready for custom artwork. Perfect for homebrew games, reproductions, or creating your own unique cabinet designs.",
+    "price": { "amount": 25, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1586182987320-4f376d39d787?w=800&h=600&fit=crop"
+    ],
+    "tags": ["blank", "custom", "diy", "homebrew"],
+    "category": "artwork",
+    "specs": {
+      "Size": "26\" x 8\"",
+      "Material": "Translucent acrylic", 
+      "Thickness": "1/8 inch",
+      "Finish": "Ready for printing",
+      "Mounting": "Standard clips"
+    },
+    "createdAt": "2024-02-03T00:00:00Z"
+  },
+  {
+    "id": "neo-geo-artwork",
+    "slug": "neo-geo-artwork",
+    "title": "Neo Geo MVS Artwork Set",
+    "description": "SNK Neo Geo MVS cabinet artwork featuring the iconic Neo Geo logo and futuristic design elements. Premium quality reproduction for authentic restoration.", 
+    "price": { "amount": 209, "currency": "USD" },
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+    ],
+    "tags": ["neo-geo", "snk", "mvs", "futuristic"],
+    "category": "artwork",
+    "specs": {
+      "Marquee": "26\" x 8\" backlit",
+      "Side Art": "Neo Geo branding",
+      "Control Panel": "4-player layout",
+      "Design": "Futuristic style",
+      "Brand": "Official SNK design"
+    },
+    "createdAt": "2024-02-04T00:00:00Z"
   }
 ]
